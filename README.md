@@ -32,3 +32,10 @@ if you need more CRUD activity, just add a few methods
 
 # Controller
 Get request from HTTP
+
+# Blob : Binary Large Objects 
+when we treat image file in spring boot Blob helps to store image in database
+
+
+# @PathVariable and @RequestParam
+![image](https://github.com/user-attachments/assets/e3dfd5ff-4e23-4263-aebc-539cdba7d9e6)
