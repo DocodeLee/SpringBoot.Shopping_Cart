@@ -24,4 +24,11 @@ Interfaces are used in combination with DI to provide flexibility, decoupling, a
 
 By injecting interfaces, Spring allows you to provide different implementations of the same interface without changing the class
 
+# Repository 
+make it more free from database and gives basic CRUD methods
 
+if you need more CRUD activity, just add a few methods
+
+
+# Controller
+Get request from HTTP
